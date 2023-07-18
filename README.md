@@ -1,4 +1,4 @@
-#Descrição
+# Descrição
 
 Esse foi um projeto desenvolvido a partir do challenge, com o mesmo nome, disponibilizado pela plataforma FrontendMentor, com o intuito de estudar css e js. Eu utilizei o Nextjs nesse projeto com a intenção de me familiarizar com o ambiente do Framework.
 
