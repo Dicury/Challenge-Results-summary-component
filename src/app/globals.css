@@ -1,0 +1,34 @@
+:root {
+  /* TABELA DE CORES */
+  --cor-primaria-vermelha: hsla(0, 100%, 67%);
+  --cor-primaria-laranja: hsla(39, 100%, 56%);
+  --cor-primaria-verde: hsla(166, 100%, 37%);
+  --cor-primaria-azul: hsla(234, 85%, 45%);
+
+  --cor-secundaria-branca: hsla(0, 0%, 100%);
+  --cor-secundaria-azul_claro: hsla(221, 100%, 96%, 0.4);
+  --cor-secundaria-lavanda: hsla(241, 100%, 89%, 0.7);
+  --cor-secundaria-cinza: hsla(224, 30%, 27%);
+
+  --cor-gradient-bg-primaria: hsla(252, 100%, 67%);
+  --cor-gradient-bg-secundaria: hsla(241, 81%, 54%);
+
+  --cor-gradient-circulo-primaria: hsla(256, 72%, 46%, 1);
+  --cor-gradient-circulo-secundaria: hsla(241, 72%, 46%, 0.3);
+
+  /* TIPOGRAFIA */
+
+  --font-size-paragrafo: 18px;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}

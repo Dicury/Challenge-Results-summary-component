@@ -1,0 +1,30 @@
+[
+  {
+    "category": "Reaction",
+    "score": "80",
+    "icon": "0",
+    "color": "hsla(0, 100%, 67%, 0.15)",
+    "texto": "hsla(0, 100%, 67%)"
+  },
+  {
+    "category": "Memory",
+    "score": "92",
+    "icon": "1",
+    "color": "hsla(39, 100%, 56%, 0.15)",
+    "texto": "hsla(39, 100%, 56%)"
+  },
+  {
+    "category": "Verbal",
+    "score": "61",
+    "icon": "2",
+    "color": "hsla(166, 100%, 37%, 0.15)",
+    "texto": "hsla(166, 100%, 37%)"
+  },
+  {
+    "category": "Visual",
+    "score": "72",
+    "icon": "3",
+    "color": "hsla(234, 85%, 45%, 0.15)",
+    "texto": "hsla(234, 85%, 45%)"
+  }
+]
