@@ -2,11 +2,6 @@
 
 Esse foi um projeto desenvolvido a partir do challenge, com o mesmo nome, disponibilizado pela plataforma FrontendMentor, com o intuito de estudar css e js. Eu utilizei o Nextjs nesse projeto com a intenção de me familiarizar com o ambiente do Framework.
 
-
-# Challenge-Results summary component
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
